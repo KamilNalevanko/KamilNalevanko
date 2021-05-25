@@ -2,7 +2,4 @@
 - 👀 I’m interested in Kotlin, Webs, Python, C#, Java, C
 - 🌱 I’m currently learning Application development
 
-<!---
-KamilNalevanko/KamilNalevanko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sudoku.py je pogram, ktorý slúži na jednoduché riešenie máp sudoku. Obsahuje 3 algoritmy od najjednoduchšieho po zložitejší. Prvý algoritmus je DFS, ktorý pracuje veľmi pomaly, druhým použitým algoritmom je BackTracking a tretí použitý algoritmus je ForwardChecking. Dané algoritmy sa líšia rýchlosťou riešenia ale aj počtom krokov. K dispozícíi je jednoduché rozhranie vytvorené pomocou Pygame.
